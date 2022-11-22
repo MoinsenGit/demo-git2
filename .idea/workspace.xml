@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c0abb18-1156-4dfd-8341-94fbd2df8a8b" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoGit2Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git-demo2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4c0abb18-1156-4dfd-8341-94fbd2df8a8b" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669129724262</updated>
-      <workItem from="1669129726976" duration="739000" />
+      <workItem from="1669129726976" duration="1100000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1669130823853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669130823853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
